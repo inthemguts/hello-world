@@ -1,4 +1,4 @@
-Dictionary manifest
+Dic manifest
 
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="305" android:versionName="7.5.40" android:installLocation="1" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="com.dictionary" platformBuildVersionCode="29" platformBuildVersionName="10">
